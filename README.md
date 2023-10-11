@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...learning,practice
 - 🌱 I’m currently learning ...testing,sql,javascript
 - 💞️ I’m looking to collaborate on ...testing
-- 📫 How to reach me ...
+- 📫 How to reach me ...rosatester19@gmail.com
 
 <!---
 rosatester/rosatester is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
