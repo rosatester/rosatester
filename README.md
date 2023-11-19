@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rosatester
 - 👀 I’m interested in ...learning,practice
 - 🌱 I’m currently learning ...testing,sql,javascript
-- 💞️ I’m looking to collaborate on ...testing
+- 💞️ I’m looking for collaborate on ...testing
 - 📫 How to reach me ...rosatester19@gmail.com
 
 <!---
